@@ -22,3 +22,4 @@ A simple Python project to manage student records using dictionaries. This conso
 3. Run the script in your terminal or any Python IDE:
    ```bash
    python student_record_system.py
+
